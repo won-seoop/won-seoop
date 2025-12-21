@@ -55,6 +55,5 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- 셋째 줄: Snake -->
-<br/><br/>
-<img src="https://github.com/NullisnotFalse/NullisnotFalse/blob/output/github-contribution-grid-snake-dark.svg" />
+
+
