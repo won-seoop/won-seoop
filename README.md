@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=won-seoop&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # 🧑🏻‍💻 Won Hyeon Seop
 <div align="center">
 
@@ -65,7 +68,8 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=won-seoop&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
 
 
 
