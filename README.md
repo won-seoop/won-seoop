@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- 프로필 정보 그리드 정렬 -->
-<div align="center">
+<div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=won-seoop&show_icons=true&theme=radical"
     height="150"
@@ -59,6 +59,7 @@
 <a href="https://www.linkedin.com/in/hyeon-seop-won-a912092b7/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 
 
