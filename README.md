@@ -6,9 +6,12 @@
 <!-- 프로필 정보 그리드 정렬 -->
 <div align="center">
 
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won-seoop&show_icons=true&theme=radical)
+
+
 <!-- 첫 줄: Top Langs + Solved.ac -->
 <span>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=won-seoop&show_icons=true&theme=radical)
   <a href="https://solved.ac/nan7789">
     <img height="150" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=nan7789" />
   </a>
@@ -56,6 +59,7 @@
 <a href="https://www.linkedin.com/in/hyeon-seop-won-a912092b7/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 
 
