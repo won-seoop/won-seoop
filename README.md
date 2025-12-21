@@ -65,7 +65,8 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=won_seop](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=won_seop&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
