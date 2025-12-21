@@ -8,6 +8,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=won-seoop&show_icons=true&theme=radical"
     height="150"
+    style="margin-right: 12px;"
   />
   <a href="https://solved.ac/nan7789">
     <img
@@ -58,6 +59,7 @@
 <a href="https://www.linkedin.com/in/hyeon-seop-won-a912092b7/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 
 
