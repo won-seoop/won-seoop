@@ -63,7 +63,7 @@
 
 
 ### 🎧
-![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=27KI1NUxpFA&theme=stream)
+![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://youtu.be/6LDg0YGYVw4?si=JeR3jMkhssri7VeP&theme=stream)
 
 
 
