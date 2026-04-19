@@ -60,8 +60,6 @@
 
 
 
-### 🎧
-[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FWwI_vwzGh5A%3Fsi%3DNKJ941sURjrdjWJR&theme=retro)](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FWwI_vwzGh5A%3Fsi%3DNKJ941sURjrdjWJR&theme=retro)
 
 
 
