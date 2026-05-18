@@ -10,15 +10,6 @@
 
 <div align="center">
 
-<!-- 프로필 정보 그리드 정렬 -->
-<div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=won-seoop&show_icons=true&theme=radical"
-    height="150"
-  />
-  &nbsp;&nbsp;&nbsp;
-
-</div>
 
 
 </div>
