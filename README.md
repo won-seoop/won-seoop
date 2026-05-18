@@ -17,12 +17,7 @@
     height="150"
   />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://solved.ac/nan7789">
-    <img
-      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=nan7789"
-      height="150"
-    />
-  </a>
+
 </div>
 
 
