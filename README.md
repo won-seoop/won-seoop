@@ -22,7 +22,13 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Loki-FCC624.svg?&style=for-the-badge&logo=grafana&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ### Tools
