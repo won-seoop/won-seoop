@@ -1,69 +1,8 @@
-
-
-# 🧑🏻‍💻 Won Hyeon Seop
-
-광활함 속에서 단순함을 찾는 것을 좋아하는, 대규모 트래픽과 우주를 좋아하는 개발자 원현섭입니다.
+###  Hi, I'm HyeonSeopWon 👋
 
 
 
-
-<div align="center">
-
-
-
-</div>
-<br>
-
-## 💪 Skills
-
-### Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Loki-FCC624.svg?&style=for-the-badge&logo=grafana&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-<br>
-
-# 💿 Blog
-
-<a href="https://halo-server.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
-</a>
-
-<a href="https://velog.io/@halo_3735/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/>
-</a>
-
-<br>
-<br>
-
-### 📭 Contact
-
-<a href="mailto:kanmar90@gmail.com">
-  <img src="https://img.shields.io/badge/kanmar90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/hyeon-seop-won-a912092b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-
-
-
-
-
-
-
-
+- 🚀 I want to be a professional backend engineer
+- 📈 I'm interested in large-scale traffic and performance optimization
+- 🛠️ I care about observability, reliability, and clean system design
+- 🌌 Fun fact: I love space and simple structures inside complexity
