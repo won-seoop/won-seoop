@@ -1,6 +1,6 @@
 <!-- ###  Hi, I'm HyeonSeopWon 👋-->
 
-[![hi](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7049D&background=FFFFFF00&random=true&width=435&lines=Won+HyeonSeop+)](https://git.io/typing-svg)
 
 ![https://github.com/won-seoop/won-seoop/blob/main/hyeonseop_dm_typing_sequence.svg](https://github.com/won-seoop/won-seoop/blob/main/hyeonseop_dm_typing_sequence.svg)
 
