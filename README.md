@@ -8,5 +8,5 @@
 - 🌌 Fun fact: I love space and simple structures inside complexity
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{won_seop}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{won-seoop}?pet-id=1" width="1000" height="120"/>
 </a>
