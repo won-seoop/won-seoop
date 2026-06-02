@@ -1,5 +1,6 @@
 <!-- ###  Hi, I'm HyeonSeopWon 👋-->
 
+[![hi](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ![https://github.com/won-seoop/won-seoop/blob/main/hyeonseop_dm_typing_sequence.svg](https://github.com/won-seoop/won-seoop/blob/main/hyeonseop_dm_typing_sequence.svg)
 
