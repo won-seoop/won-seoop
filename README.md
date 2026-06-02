@@ -6,3 +6,7 @@
 - 📈 I'm interested in large-scale traffic and performance optimization
 - 🛠️ I care about observability, reliability, and clean system design
 - 🌌 Fun fact: I love space and simple structures inside complexity
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{won_seop}?pet-id=1" width="1000" height="120"/>
+</a>
