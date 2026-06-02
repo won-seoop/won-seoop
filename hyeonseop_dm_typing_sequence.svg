@@ -1,0 +1,114 @@
+<svg width="760" height="520" viewBox="0 0 760 520" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { color-scheme: dark light; }
+    svg { background: transparent; }
+    .wrap { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', Arial, sans-serif; }
+    .bubble { fill: #3a3a3d; opacity: 0; transform: translateY(10px); }
+    .text { fill: #f3f3f3; font-size: 21px; font-weight: 650; letter-spacing: -0.25px; opacity: 0; }
+    .typingBubble { fill: #3a3a3d; opacity: 0; transform: translateY(10px); }
+    .dot { fill: #8f8f93; opacity: .45; }
+
+    .tb1 { animation: showTyping .75s ease 0s forwards, hideTyping .18s ease 1.05s forwards; }
+    .b1  { animation: showBubble .36s ease 1.15s forwards; }
+    .t1  { animation: fadeText .25s ease 1.28s forwards; }
+
+    .tb2 { animation: showTyping .75s ease 1.75s forwards, hideTyping .18s ease 2.80s forwards; }
+    .b2  { animation: showBubble .36s ease 2.90s forwards; }
+    .t2  { animation: fadeText .25s ease 3.03s forwards; }
+
+    .tb3 { animation: showTyping .75s ease 3.55s forwards, hideTyping .18s ease 4.60s forwards; }
+    .b3  { animation: showBubble .36s ease 4.70s forwards; }
+    .t3  { animation: fadeText .25s ease 4.83s forwards; }
+
+    .tb4 { animation: showTyping .75s ease 5.35s forwards, hideTyping .18s ease 6.40s forwards; }
+    .b4  { animation: showBubble .36s ease 6.50s forwards; }
+    .t4  { animation: fadeText .25s ease 6.63s forwards; }
+
+    .tb5 { animation: showTyping .75s ease 7.15s forwards, hideTyping .18s ease 8.20s forwards; }
+    .b5  { animation: showBubble .36s ease 8.30s forwards; }
+    .t5  { animation: fadeText .25s ease 8.43s forwards; }
+
+    .tb6 { animation: showTyping .75s ease 8.95s forwards, hideTyping .18s ease 10.00s forwards; }
+    .b6  { animation: showBubble .36s ease 10.10s forwards; }
+    .t6  { animation: fadeText .25s ease 10.23s forwards; }
+
+    .d1 { animation: dotPulse .9s ease-in-out infinite; }
+    .d2 { animation: dotPulse .9s ease-in-out .15s infinite; }
+    .d3 { animation: dotPulse .9s ease-in-out .3s infinite; }
+
+    @keyframes showTyping { to { opacity: 1; transform: translateY(0); } }
+    @keyframes hideTyping { to { opacity: 0; transform: translateY(0); } }
+    @keyframes showBubble { to { opacity: 1; transform: translateY(0); } }
+    @keyframes fadeText { to { opacity: 1; } }
+    @keyframes dotPulse { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+  </style>
+
+  <g class="wrap">
+    <!-- message 1 typing -->
+    <g class="typingBubble tb1">
+      <rect x="18" y="0" width="154" height="70" rx="34"/>
+      <circle class="dot d1" cx="74" cy="35" r="10"/>
+      <circle class="dot d2" cx="106" cy="35" r="10"/>
+      <circle class="dot d3" cx="138" cy="35" r="10"/>
+    </g>
+    <!-- message 1 -->
+    <rect class="bubble b1" x="18" y="0" width="396" height="70" rx="22"/>
+    <text class="text t1" x="40" y="29">Hi, I'm HyeonSeopWon 👋</text>
+    <text class="text t1" x="40" y="55">Backend Developer</text>
+
+    <!-- message 2 typing -->
+    <g class="typingBubble tb2">
+      <rect x="18" y="86" width="154" height="70" rx="34"/>
+      <circle class="dot d1" cx="74" cy="121" r="10"/>
+      <circle class="dot d2" cx="106" cy="121" r="10"/>
+      <circle class="dot d3" cx="138" cy="121" r="10"/>
+    </g>
+    <!-- message 2 -->
+    <rect class="bubble b2" x="18" y="86" width="655" height="55" rx="22"/>
+    <text class="text t2" x="40" y="121">🚀 Growing into a professional backend engineer</text>
+
+    <!-- message 3 typing -->
+    <g class="typingBubble tb3">
+      <rect x="18" y="157" width="154" height="70" rx="34"/>
+      <circle class="dot d1" cx="74" cy="192" r="10"/>
+      <circle class="dot d2" cx="106" cy="192" r="10"/>
+      <circle class="dot d3" cx="138" cy="192" r="10"/>
+    </g>
+    <!-- message 3 -->
+    <rect class="bubble b3" x="18" y="157" width="706" height="55" rx="22"/>
+    <text class="text t3" x="40" y="192">📈 Into large-scale traffic &amp; performance optimization</text>
+
+    <!-- message 4 typing -->
+    <g class="typingBubble tb4">
+      <rect x="18" y="228" width="154" height="70" rx="34"/>
+      <circle class="dot d1" cx="74" cy="263" r="10"/>
+      <circle class="dot d2" cx="106" cy="263" r="10"/>
+      <circle class="dot d3" cx="138" cy="263" r="10"/>
+    </g>
+    <!-- message 4 -->
+    <rect class="bubble b4" x="18" y="228" width="674" height="55" rx="22"/>
+    <text class="text t4" x="40" y="263">🛠️ Observability, reliability, and clean system design</text>
+
+    <!-- message 5 typing -->
+    <g class="typingBubble tb5">
+      <rect x="18" y="299" width="154" height="70" rx="34"/>
+      <circle class="dot d1" cx="74" cy="334" r="10"/>
+      <circle class="dot d2" cx="106" cy="334" r="10"/>
+      <circle class="dot d3" cx="138" cy="334" r="10"/>
+    </g>
+    <!-- message 5 -->
+    <rect class="bubble b5" x="18" y="299" width="564" height="55" rx="22"/>
+    <text class="text t5" x="40" y="334">🌌 Fun fact: I love space &amp; simple structures</text>
+
+    <!-- message 6 typing -->
+    <g class="typingBubble tb6">
+      <rect x="18" y="370" width="154" height="70" rx="34"/>
+      <circle class="dot d1" cx="74" cy="405" r="10"/>
+      <circle class="dot d2" cx="106" cy="405" r="10"/>
+      <circle class="dot d3" cx="138" cy="405" r="10"/>
+    </g>
+    <!-- message 6 -->
+    <rect class="bubble b6" x="18" y="370" width="438" height="55" rx="22"/>
+    <text class="text t6" x="40" y="405">VEL0G에도 놀러오세요 ✨</text>
+  </g>
+</svg>
