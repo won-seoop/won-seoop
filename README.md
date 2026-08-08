@@ -1,17 +1,36 @@
-<!-- ###  Hi, I'm HyeonSeopWon 👋-->
+# Backend Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7049D&background=FFFFFF00&repeat=false&width=435&lines=+Hi%2C+I'm+HyeonSeop+Won+%F0%9F%91%8B)](https://git.io/typing-svg)
+모니터링을 통해 서비스의 병목을 발견하고 개선하며, 안정적인 운영을 실현하는 것을 중요하게 생각합니다.
+이러한 가치와 맞닿아 있는 차별화된 전략을 가진 조직을 찾고 있습니다.
 
-![https://github.com/won-seoop/won-seoop/blob/main/hyeonseop_dm_typing_sequence.svg](https://github.com/won-seoop/won-seoop/blob/main/hyeonseop_dm_typing_sequence.svg)
+## Tech Stack
 
+### Backend
 
-<!--
-- 🚀 I want to be a professional backend engineer
-- 📈 I'm interested in large-scale traffic and performance optimization
-- 🛠️ I care about observability, reliability, and clean system design
-- 🌌 Fun fact: I love space and simple structures inside complexity
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{won-seoop}?pet-id=1" width="1000" height="120"/>
-</a>
+### Database & Cache
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
+
+### Infra & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" />
+</p>
+
+### Monitoring & Messaging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,rabbitmq" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
