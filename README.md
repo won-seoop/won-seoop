@@ -8,7 +8,7 @@
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python" />
 </p>
 
 ### Database & Cache
